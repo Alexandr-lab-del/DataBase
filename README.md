@@ -18,7 +18,7 @@
 ## Установка и настройка
 
 1. Клонируйте репозиторий:
-
+- https://github.com/Alexandr-lab-del/DataBase/tree/course_work
 2. Установите необходимые библиотеки:
 - pip install requests, psycopg2
 
